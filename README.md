@@ -34,7 +34,7 @@ Shoot/Fire
 Reload 
 
 ## Demonstration Video
-[Watch the robot demonstration here: https://github.com/masecrafter/Ping-Pong-Ball-Launcher/blob/main/IMG_5829.mp4]
+[Watch the robot demonstration here:] (https://github.com/masecrafter/Ping-Pong-Ball-Launcher/blob/main/IMG_5829.mp4)
 
 ## Project File
 The VEX IQ Blocks program:
