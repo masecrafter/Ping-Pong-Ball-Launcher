@@ -3,7 +3,7 @@ Vex IQ Code for Ping Pong Ball Launcher Bot
 
 ## Project Overview
 # This is my description for my ping pong ball launcher project: 
-Hi this is the code for my ping pong ball launcher. I built it using VEX IQ blocks. It took me about 2 and a half weeks. I built the base and car first, then the loader and carriage. After that I built the aimer to aim up and down. Once I finished that, I started adding a few upgrades ( Hopper, Loader, Shroud, and weights to stop it from falling over ). The launcher loads itself with a ping pong ball, then you can either press the short range load or long range load. Then you shoot it and it reloads again. If it reloads 5 times, you need to refill it again. It is loaded by a rail and 2 gears with a motor to push the ball. I used two rubber bands to power the slingshot. For the loader, I used a part from sling in the vex app. There is a shroud to stop the ball from falling out of the carriage. when loading. The machine can also aim up and down. And, it can also move around like a car (Left, Right, Forward, Backward, Turn Left, and Turn Right).
+Hi this is the code for my ping pong ball launcher. I built it using VEX IQ blocks. It took me about 4 and a half weeks. I built the base and car first, then the loader and carriage. After that I built the aimer to aim up and down. Once I finished that, I started adding a few upgrades ( Hopper, Loader, Shroud, and weights to stop it from falling over ). The launcher loads itself with a ping pong ball, then you can either press the short range load or long range load. Then you shoot it and it reloads again. If it reloads 5 times, you need to refill it again. It is loaded by a rail and 2 gears with a motor to push the ball. I used two rubber bands to power the slingshot. For the loader, I used a part from sling in the vex app. There is a shroud to stop the ball from falling out of the carriage. when loading. The machine can also aim up and down. And, it can also move around like a car (Left, Right, Forward, Backward, Turn Left, and Turn Right).
 
 My goal of this project was to be able to launch the ball short range and far range then reload the carriage with a ball on its own.
 
@@ -17,6 +17,7 @@ The robot parts includes:
 - Carriage
 - Tracks
 - Gears
+- Weights
 - Grips
 - Controller
 - Brain/Hub
